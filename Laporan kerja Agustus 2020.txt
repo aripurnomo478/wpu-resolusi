@@ -1,0 +1,5 @@
+Sabtu 1 Agustus 2020
+- cek mesin antrian, tes koneksi jaringan
+- cek pc pendaftaraan 
+- cek pc kasir 
+- membuat kerangka kerja
